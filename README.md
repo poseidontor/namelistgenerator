@@ -10,4 +10,6 @@ Eg. jmoris, morisj, john.moris, john
 
 
 ## Usage
+```
 python3 namelistgenerator.py -c companyname -f employeelist.txt
+```
